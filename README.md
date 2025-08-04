@@ -24,7 +24,7 @@ Welcome to my corner of GitHub! I'm a Computer Science student at York Universit
 
 ## 📫 Reach me
 - 📧 Email: harshmeeluofficial@gmail.com
-- 📷 Instagram: [@meeluh1](https://instagram.com/vvrdaan)
+- 📷 Instagram: [@vvrdaan](https://instagram.com/vvrdaan)
 - 🐍 Still avoiding Python... for now
 
 ---
