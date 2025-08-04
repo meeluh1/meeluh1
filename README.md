@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hey there, I'm Harshvardhan!
 
-<!--
-**meeluh1/meeluh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub! I'm a Computer Science student at York University, caffeine-fueled and code-powered ☕💻
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects I'm proud of
+- [☁️ Weather App](https://github.com/meeluh1/WeatherApp) – Java-based CLI tool that fetches real-time weather using OpenWeatherMap API
+- More coming soon... stay tuned 👀
+
+---
+
+## 💡 Currently working on
+- Learning Data Structures & Algorithms in Java
+- Building mini projects to strengthen my portfolio
+- Cleaning up commit history like a responsible dev 😅
+
+---
+
+## 🧰 Tech Stack
+`Java` • `Git` • `HTML` • `CSS` • `Markdown` • `VS Code` • `IntelliJ`
+
+---
+
+## 📫 Reach me
+- 📧 Email: harshmeeluofficial@gmail.com
+- 📷 Instagram: [@meeluh1](https://instagram.com/vvrdaan)
+- 🐍 Still avoiding Python... for now
+
+---
+
+## ⚡ Fun fact
+I once spent hours debugging an error caused by a missing semicolon. Still healing. 😭
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
