@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Harshvardhan!
+# 👋 Hey there, I'm Harsh!
 
 Welcome to my corner of GitHub! I'm a Computer Science student at York University, caffeine-fueled and code-powered ☕💻
 
