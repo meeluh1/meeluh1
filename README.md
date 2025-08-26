@@ -6,7 +6,7 @@ Welcome to my corner of GitHub! I'm a Computer Science student at York Universit
 
 ## 🚀 Projects I'm proud of
 - [☁️ Weather App](https://github.com/meeluh1/WeatherApp) – Java-based CLI tool that fetches real-time weather using OpenWeatherMap API  
-- [🐍 Snake Game](https://github.com/meeluh1/SnakeGame) – Classic Snake game built in Java with simple graphics and controls  
+- [🐍 Snake Game](https://github.com/meeluh1/SnakeGame) – Classic Snake game built in JavaScript with simple graphics and controls  
 - [📇 Contacts App](https://contacts-app-rosy.vercel.app/) – React-based app to store, manage, and delete contacts (with a dark mode ✨)  
 
 ---
